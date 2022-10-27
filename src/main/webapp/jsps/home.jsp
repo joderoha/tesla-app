@@ -16,7 +16,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="200">
+		<img src="efezinotech" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		EfeZino Technology, 
