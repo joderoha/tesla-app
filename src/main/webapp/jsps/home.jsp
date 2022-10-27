@@ -22,9 +22,9 @@
 		EfeZino Technology, 
 		Rosharon, Texas, United States
 		+1 424 456 5577,
-		efezinotech@yahoo.com
+		joderoha@yahoo.com
 		<br>
-		<a href="mailto:efezinotech@yahoo.com">Mail to EfeZino Technologies</a>
+		<a href="mailto:joderoha@yahoo.com">Mail to EfeZino Technologies</a>
 	</span>
 </div>
 <hr>
