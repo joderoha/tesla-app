@@ -9,31 +9,30 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
+<h1 align="center">Welcome to EfeZino Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 25, 2022.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY. Justina will become a millionaire</h2>
+	EfeZino Technologies is a software development company established in 2022. 
+	GOD IS OUR SUCCESS ACCESS KEY. The Emesaha will be great and dominant the world of technology</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		EfeZino Technology, 
+		Rosharon, Texas, United States
+		+1 424 456 5577,
+		efezinotech@yahoo.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:efezinotech@yahoo.com">Mail to EfeZino Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>EfeZino Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://mylandmark.tech/">EfeZino Technologies</a> </small></p>
 
 </body>
 </html>
