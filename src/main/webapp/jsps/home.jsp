@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to EfeZino Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
+<h2 align="center"> We are the future of devops engineering, supporting the Ebay Black Friday Project.
 	EfeZino Technologies is a software development company established in 2022. 
 	GOD IS OUR SUCCESS ACCESS KEY. The Emesaha will be great and dominant the world of technology</h2>
 <hr>
